@@ -40,5 +40,8 @@ $$(1-O(1/m))\varphi ^t\leq E[π|G^{t-1},H^t]\le (1+O(1/m))\varphi ^t$$
 
 
 # Results and Conclusion
-The detail of the prove and results are given in the full report.
-[SDSC3001 Written Report.pdf](https://github.com/IvanYuen00/SDSC3001-Course-Project-PageRank-on-an-evolving-graph/files/10400309/SDSC3001.Written.Report.pdf)
+
+The detail of the prove and results are given in the full report. [SDSC3001 Course Project.pdf](https://github.com/IvanYuen00/SDSC3001-Course-Project-PageRank-on-an-evolving-graph/files/10400452/SDSC3001.Course.Project.pdf)
+
+
+
